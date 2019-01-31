@@ -16,6 +16,10 @@ function divSelector() {
 
 
 }
-// Write a function divSelector that does not accept any parameters. The function should use a class selector to return the two divs with the class pics.
-//
+
+function firstListItem() {
+    $('#pic-list:first-child')
+  
+}
+
 // Write a function firstListItem that does not accept any parameters. The function should use a first-child selector to return the first list item in the ul with the ID pic-list
